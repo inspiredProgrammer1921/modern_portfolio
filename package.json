@@ -1,7 +1,6 @@
 {
   "name": "modern_portfolio",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive"
@@ -9,6 +8,16 @@
   "author": "Nick McGavock",
   "license": "MIT",
   "dependencies": {
-    "node-sass": "^4.9.3"
-  }
+    "node-sass": "^4.10.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/inspiredProgrammer1921/modern_portfolio.git).git"
+  },
+  "bugs": {
+    "url": "https://github.com/inspiredProgrammer1921/modern_portfolio.git)/issues"
+  },
+  "homepage": "https://github.com/inspiredProgrammer1921/modern_portfolio.git)#readme",
+  "description": ""
 }
